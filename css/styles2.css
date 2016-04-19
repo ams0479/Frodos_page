@@ -28,6 +28,14 @@ IMG.displayed {
 
 .sidebar {
   width: 30%;
-  float: right;
+  float: right;;
   background-color: white;
+}
+
+.my-class {
+  margin: 12px;
+  margin-right: 500px;
+  border: 2px solid green;
+  padding: 4px;
+  background-color: #DAF7A6;
 }
